@@ -1,2 +1,2 @@
-192.168.18.212 apache_package=apache2 php_package=libapache2-mod-php
-192.168.18.213apache_package=apache2 php_package=libapache2-mod-php
+192.168.18.216 apache_package=apache2 php_package=libapache2-mod-php
+192.168.18.217 apache_package=apache2 php_package=libapache2-mod-php
